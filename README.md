@@ -13,7 +13,7 @@ Site Consists of 7 sections:
   <li>Call to action</li>
   <li>Footer</li>
 </ul>
-<a href="http://"> Click here to Look at a live Preview</a>
+<a href="https://ezmod66.github.io/tin_Dog/"> Click here to Look at a live Preview</a>
 
 <hr style="width:50%;text-align:center;>
 
