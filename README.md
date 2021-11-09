@@ -18,7 +18,7 @@ Site Consists of 7 sections:
 <hr style="width:50%;text-align:center;>
 
 <hr style="width:50%;text-align:center;>
-Frameworks & Libraries Used
+ <strong>Note To Self</strong><br>Frameworks & Libraries Used
 <ul>
     <li>HTML</li>
     <li>CSS</li>
