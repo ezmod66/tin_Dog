@@ -24,3 +24,4 @@ Site Consists of 7 sections:
     <li>CSS</li>
     <li>Bootstrap 5.0</li>
 </ul>
+<hr>
